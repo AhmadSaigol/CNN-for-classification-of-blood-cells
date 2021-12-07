@@ -53,6 +53,8 @@ The code can be used in two ways:
     
   </ul>
   <br>
+  <p> In the 'CNN_Training_Code.ipynb', You would have to create object of all classes (except 'Network') to create your desired architecture. These objects would have to be passed to the constructor of the class 'Network'. Then you would have to call the method 'train' on its object to start the training process. Once training is done, you can simply use the same procedure (as described above) to get the predictions on the unkown dataset. 
+  <br>
   <p> You can find more details on how to work with these layers in "Training_on_different_dataset.pdf"</p>
   </ol>
     
