@@ -19,7 +19,7 @@ The code can be used in two ways:
  <br>
   <p>You can find more detailed information in the "Detailed_Report.pdf".</p>
   <br>
-  <li> <b>Building your own Model and Training it on your Dataset/b> </li>
+  <li> <b>Building your own Model and Training it on your own Dataset<b> </li>
   <br>
   The code provides number of layers which allows the user to create different kind of models depending on their needs:
   <ul>
