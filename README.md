@@ -1,9 +1,11 @@
 # CNN-for-classification-of-blood-cells
+<br>
+  <p>You can find detailed information on Dataset, Model and other parameters in the file "Detailed_Report.pdf".</p>
 
 The code can be used in two ways:
 
 <ol>
-  <li> <b>Using the Trained Model for prediction on your dataset</b> </li>
+  <li> <b>Using the Trained Model</b> </li>
   <br>
   <p> The model was trained for predicting eight different type of blood cells and it can used for prediction as follows:</p>
     <ul>
@@ -16,9 +18,7 @@ The code can be used in two ways:
       </ul>
   <br>
   <p>It may be noted that the code expects the image to be in 'jpg' format and is of type 'unit8'. Furthermore, the code does not install any dependencies nor create any virtual environment as it was created on Google Colab.</p>  
- <br>
-  <p>You can find more detailed information in the "Detailed_Report.pdf".</p>
-  <br>
+   <br>
   <li> <b>Building your own Model and Training it on your own Dataset</b> </li>
   <br>
   The code provides number of layers which allows the user to create different kind of models depending on their needs:
